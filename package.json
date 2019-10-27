@@ -1,7 +1,7 @@
 {
     "scripts": {
         "start": "npm install && npm run build",
-        "build": "resume export index.html"
+        "build": "resume export index.html --theme stackoverflow"
     },
     "dependencies": {
         "jsonresume-theme-stackoverflow": "^1.4.0",
