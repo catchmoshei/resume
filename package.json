@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "start": "npm install && npm run build",
+        "build": "resume export index.html"
+    },
+    "dependencies": {
+        "jsonresume-theme-stackoverflow": "^1.4.0",
+        "resume-cli": "^1.2.7"
+    }
+}
