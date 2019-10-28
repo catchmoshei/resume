@@ -9,87 +9,203 @@
       "summary": "Employ my programming, analytical and logical skills to build scalable and maintainable applications on evolving and latest technologies.",
       "location": {
         "address": "14707 NE 36th St",
-        "postalCode": "CA 94115",
+        "postalCode": "WA 98007",
         "city": "Seattle",
         "countryCode": "US",
         "region": "Washington"
       },
       "profiles": [{
-        "network": "Twitter",
-        "username": "@shakechilly23",
-        "url": "http://twitter.com/@shakechilly23"
+        "network": "LinkedIn",
+        "username": "Mohammed Sheikh",
+        "url": "https://www.linkedin.com/in/mohammed-sheikh-4a44b1106/"
       }]
     },
-    "work": [{
-      "company": "Company",
-      "position": "President",
-      "website": "http://company.com",
+    "work": [
+      {
+      "company": "Tata Consultancy Services",
+      "position": "Sr. SDE",
+      "website": "http://www.tcs.com",
+      "startDate": "2017-01-01",
+      "summary": "Microsoft Learning Portal (Infopedia) is a wiki-like knowledge delivery platform for sales and Marketing department of Microsoft. It is a platform for the global field community to learn, share, communicate and collaborate. The portal is one stop location for over 150,000 items which consists of Documents, Pages, Books, Videos, Training Materials etc.",
+      "highlights": [
+        "Requirement analysis - understanding the requirements from business.",
+        "Evaluate technical feasibility for business requirements and prepare estimates",
+        "Design phase – Create architecture framework and design documents for implementation of requirements.",
+        "Implementation phase - Develop scalable maintainable and extendible features on the portal meeting client requirements using SharePoint and web development frameworks.",
+        "Support for responsive design to be used on all browsers and devices.",
+        "Create content sync jobs to integrate content from external systems into SharePoint environment.",
+        "Unit testing and Code Review"
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Project Lead/ Sr SDE",
+      "website": "http://www.tcs.com",
+      "startDate": "2015-05-01",
+      "endDate": "2017-01-01",
+      "summary": "Sports Data API is a one stop solution for providing sports data to different Microsoft platforms like PRIME, Windows App, Windows Phone App, Bing, Xbox etc. Data is collected from multiple providers like STATS, Opta, Perform, Infoplum etc and provided to consumers in a unified format.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "SDE/Module Lead",
+      "website": "http://www.tcs.com",
+      "startDate": "2014-02-01",
+      "endDate": "2015-05-01",
+      "summary": "Prime is the re-envisioning and consolidation of MSN to serve as the web presence for the combined product lines across Microsoft media products. Prime will consolidate and evolve both 'Classic' and TMX versions of MSN into single web product on a common codebase in all markets with a common feature-set and design. ",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "SDE/On-Site Coordinator",
+      "website": "http://www.tcs.com",
+      "startDate": "2013-02-01",
+      "endDate": "2014-01-01",
+      "summary": "Prediction Game is a feature to have an interactive web game which automatically puts questions to users based on the events in a live football game e.g. when a goal is scored the user is asked to predict who will score the next goal.  This game should complement and enhance the commentary feature by adding a fun, competitive element to the Match-Play experience.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "SDE/Team Member/Scrum Master",
+      "website": "http://www.tcs.com",
       "startDate": "2013-01-01",
       "endDate": "2014-01-01",
       "summary": "Description...",
       "highlights": [
         "Started the company"
       ]
-    }],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "website": "http://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description...",
+    },{
+      "company": "Tata Consultancy Services",
+      "position": "SDET/Team Member",
+      "website": "http://www.tcs.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Test SDK is an automation framework architecture on top of popular browser automation frameworks like Selenium and WebAii, This would help write automated functional tests for testing web pages on MSN site.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Started the company"
       ]
-    }],
+    }
+  ],
     "education": [{
-      "institution": "University",
-      "area": "Software Development",
+      "institution": "Mumbai University",
+      "area": "Engineering (Electronics)",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
+      "startDate": "2009-05-01",
+      "endDate": "2005-07-01",
+      "gpa": "4.0"
+    }],      
     "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "website": "http://publication.com",
-      "summary": "Description..."
+      "name": "PC Control by Speech Recognition",
+      "publisher": "Mumbai University",
+      "releaseDate": "2009-04-01",
+      "summary": "Aim of project is to authenticate speaker’s identity by user’s voice and execute simple PC commands like open a text file. In order to authenticate speaker’s identity real time speech signal is compared with the pre-recorded user’s voice signals in the database. Here the sampled signal’s power spectrum density is compared with power spectrum density of the pre-recorded voice using MATLAB and on successful match the name of the particular speaker is displayed. The possible application of this project could to operate personalized digital gadgets with voice commands. Speaker Recognition - the ability of the computer to understand the spoken words for the purpose receiving commands and data input from the speaker."
     }],
     "skills": [{
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Frontend Development",
+      "level": "Advanced",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "JQuery",
+        "Angular",
+        "ReactJS",
+        "TypeScript"
       ]
-    }],
+    },
+    {
+      "name": "Backend Development",
+      "level": "Advanced",
+      "keywords": [
+        "C#",
+        "ASP.NET MVC",
+        "Web API",        
+        ".Net Core",
+        "Entity Framework 6"
+      ]
+    },    
+    {
+      "name": "Cloud Services",
+      "level": "Advanced",
+      "keywords": [
+        "Microsoft Azure",
+        "Search",
+        "Functions",
+        "Services Bus",
+        "API Management",
+        "Hybrid Connections"       
+      ]
+    },
+    {
+      "name": "System Design",
+      "level": "Advanced",
+      "keywords": [
+        "OOPs",
+        "SOLID",
+        "Distributed Systems"      
+      ]
+    },
+    {
+      "name": "Test Automation",
+      "level": "Intermediate",
+      "keywords": [
+        "Selenium",
+        "Web AII"        
+      ]
+    },{
+      "name": "Application Security",
+      "level": "Intermediate",
+      "keywords": [
+        "Penetration Testing",
+        "Static Code Analysis"        
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Intermediate",
+      "keywords": [
+        "LINQ",
+        "SQL Server",
+        "Azure DocumentDB"
+      ]
+    }    
+  ],
     "languages": [{
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Gujarati",
+      "fluency": "Native Speaker"
     }],
     "interests": [{
-      "name": "Wildlife",
+      "name": "Sports",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Cricket",
+        "Tennis"        
       ]
-    }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference..."
-    }],
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Fiction"                
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Indo-western Fusion",
+        "Rock"               
+      ]
+    }],    
     "meta": {
         "theme": "stackoverflow"
     }
