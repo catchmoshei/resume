@@ -4,6 +4,7 @@
         "build": "resume export index.html --theme stackoverflow"
     },
     "dependencies": {
+        "jsonresume-theme-kendall": "^0.1.19",
         "jsonresume-theme-stackoverflow": "^1.4.0",
         "resume-cli": "^1.2.7"
     }

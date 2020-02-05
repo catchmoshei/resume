@@ -60,9 +60,9 @@
       "summary": "Sports Data API is a one stop solution for providing sports data to different Microsoft platforms like PRIME, Windows App, Windows Phone App, Bing, Xbox etc. Data is collected from multiple providers like STATS, Opta, Perform, Infoplum etc and provided to consumers in a unified format.",
       "highlights": [
           "Built 'ingesters' for ingesting data from new content providers.",
-          "Enable the team of developers in day to day activities."
-          "Help prioritize and streamline work items."
-          "Help team members make technical decisions and problem solving."
+          "Enable the team of developers in day to day activities.",
+          "Help prioritize and streamline work items.",
+          "Help team members make technical decisions and problem solving.",
           "Ensure effective and bug free delivery within timelines."
       ]
     },
@@ -85,7 +85,7 @@
       "summary": "MSN Live Play Football Match Centre focuses on an iterative approach to releasing a full match centre for MSN using data from providers",
       "highlights": [
           "Worked closely with Client at onshore location Dublin Ireland.",
-          "Understanding and analysing requirements and coordinating with offshore team in Pune."
+          "Understanding and analysing requirements and coordinating with offshore team in Pune.",
           "Implementing Summary, Timeline and Live Commentary Module."
       ]
     },
@@ -97,7 +97,7 @@
       "endDate": "2013-01-01",
       "summary": "Content Ingestion System takes the feed from different providers and injects them in the format compatible to MSN systems.",
       "highlights": [
-          "Created content ingestion 'callouts' which involved data read, manipulation and ingestion."
+          "Created content ingestion 'callouts' which involved data read, manipulation and ingestion.",
           "Ensure job scheduling and testing of ingestion."
       ]
     },{
@@ -108,8 +108,8 @@
       "endDate": "2012-02-01",
       "summary": "Test SDK is an automation framework architecture on top of popular browser automation frameworks like Selenium and WebAii, This would help write automated functional tests for testing web pages on MSN site.",
       "highlights": [
-          "Created automated test cases using browser automation framework (Selenium and Web AII"
-          "Created and executed test plans."
+          "Created automated test cases using browser automation framework (Selenium and Web AII",
+          "Created and executed test plans.",
           "Performed unit testing, acceptance testings, regression and integration."
       ]
     }
