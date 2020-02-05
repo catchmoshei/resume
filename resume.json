@@ -6,7 +6,7 @@
       "email": "mohammedsheikh29@gmail.com",
       "phone": "(425) 553 5202",
       "website": "",
-      "summary": "Employ my programming, analytical and logical skills to build scalable and maintainable applications on evolving and latest technologies.",
+      "summary": "Employ my programming, analytical and logical skills to build software products that impact the world.",
       "location": {
         "address": "14707 NE 36th St",
         "postalCode": "WA 98007",
@@ -25,13 +25,13 @@
       "company": "Tata Consultancy Services",
       "position": "Sr. SDE",
       "website": "http://www.tcs.com",
-      "startDate": "2017-01-01",
-      "summary": "Microsoft Learning Portal (Infopedia) is a wiki-like knowledge delivery platform for sales and Marketing department of Microsoft. It is a platform for the global field community to learn, share, communicate and collaborate. The portal is one stop location for over 150,000 items which consists of Documents, Pages, Books, Videos, Training Materials etc.",
+      "startDate": "2017-02-01",
+      "summary": "Microsoft Learning Portal (Infopedia) is a wiki-like knowledge delivery platform for sales and Marketing department of Microsoft. The portal is one stop location for over 150,000 items which consists of Documents, Pages, Books, Videos, Training Materials etc.",
       "highlights": [
-        "Requirement analysis - understanding the requirements from business.",
-        "Evaluate technical feasibility for business requirements and prepare estimates",
-        "Design phase – Create architecture framework and design documents for implementation of requirements.",
-        "Implementation phase - Develop scalable maintainable and extendible features on the portal meeting client requirements using SharePoint and web development frameworks.",
+        "Built end to end search experience used to find learning content.",
+        "Created a configurable model to quickly extend or modify search capabilities like search suggestions, filters, sorts, domains etc.",
+        "Effective communication with stake holders to come up with efficient and quick solutions.",
+        "Helped improve results with collaborating on user experience study, analytics and reporting.",
         "Support for responsive design to be used on all browsers and devices.",
         "Create content sync jobs to integrate content from external systems into SharePoint environment.",
         "Unit testing and Code Review"
@@ -39,12 +39,31 @@
     },
     {
       "company": "Tata Consultancy Services",
+      "position": "Application Security Analyst",
+      "website": "http://www.tcs.com",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Responsible for Application Security Review, Assessment of Microsoft IT Applications and enabling compliance to application Security guidelines",
+      "highlights": [
+          "Collaborate with developement teams with respect to application security in various stages of application life cycle.",
+          "Security design review of new applications.",
+          "Static code analysis and finding vulnerabilities",
+          "Suggest security fixes and best practices in accordance with industry standards."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
       "position": "Project Lead/ Sr SDE",
       "website": "http://www.tcs.com",
-      "startDate": "2015-05-01",
-      "endDate": "2017-01-01",
+      "startDate": "2014-05-01",
+      "endDate": "2016-01-01",
       "summary": "Sports Data API is a one stop solution for providing sports data to different Microsoft platforms like PRIME, Windows App, Windows Phone App, Bing, Xbox etc. Data is collected from multiple providers like STATS, Opta, Perform, Infoplum etc and provided to consumers in a unified format.",
       "highlights": [
+          "Built 'ingesters' for ingesting data from new content providers.",
+          "Enable the team of developers in day to day activities."
+          "Help prioritize and streamline work items."
+          "Help team members make technical decisions and problem solving."
+          "Ensure effective and bug free delivery within timelines."
       ]
     },
     {
@@ -52,7 +71,7 @@
       "position": "SDE/Module Lead",
       "website": "http://www.tcs.com",
       "startDate": "2014-02-01",
-      "endDate": "2015-05-01",
+      "endDate": "2014-05-01",
       "summary": "Prime is the re-envisioning and consolidation of MSN to serve as the web presence for the combined product lines across Microsoft media products. Prime will consolidate and evolve both 'Classic' and TMX versions of MSN into single web product on a common codebase in all markets with a common feature-set and design. ",
       "highlights": [
       ]
@@ -63,30 +82,35 @@
       "website": "http://www.tcs.com",
       "startDate": "2013-02-01",
       "endDate": "2014-01-01",
-      "summary": "Prediction Game is a feature to have an interactive web game which automatically puts questions to users based on the events in a live football game e.g. when a goal is scored the user is asked to predict who will score the next goal.  This game should complement and enhance the commentary feature by adding a fun, competitive element to the Match-Play experience.",
+      "summary": "MSN Live Play Football Match Centre focuses on an iterative approach to releasing a full match centre for MSN using data from providers",
       "highlights": [
-        "Started the company"
+          "Worked closely with Client at onshore location Dublin Ireland.",
+          "Understanding and analysing requirements and coordinating with offshore team in Pune."
+          "Implementing Summary, Timeline and Live Commentary Module."
       ]
     },
     {
       "company": "Tata Consultancy Services",
       "position": "SDE/Team Member/Scrum Master",
       "website": "http://www.tcs.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description...",
+      "startDate": "2012-03-01",
+      "endDate": "2013-01-01",
+      "summary": "Content Ingestion System takes the feed from different providers and injects them in the format compatible to MSN systems.",
       "highlights": [
-        "Started the company"
+          "Created content ingestion 'callouts' which involved data read, manipulation and ingestion."
+          "Ensure job scheduling and testing of ingestion."
       ]
     },{
       "company": "Tata Consultancy Services",
       "position": "SDET/Team Member",
       "website": "http://www.tcs.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "startDate": "2010-02-01",
+      "endDate": "2012-02-01",
       "summary": "Test SDK is an automation framework architecture on top of popular browser automation frameworks like Selenium and WebAii, This would help write automated functional tests for testing web pages on MSN site.",
       "highlights": [
-        "Started the company"
+          "Created automated test cases using browser automation framework (Selenium and Web AII"
+          "Created and executed test plans."
+          "Performed unit testing, acceptance testings, regression and integration."
       ]
     }
   ],
