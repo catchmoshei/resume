@@ -208,7 +208,27 @@
     {
       "language": "Gujarati",
       "fluency": "Native Speaker"
-    }],       
+    }],
+    "interests": [{
+      "name": "Sports",
+      "keywords": [
+        "Cricket",
+        "Tennis"        
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Fiction"                
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Indo-western Fusion",
+        "Rock"               
+      ]
+    }],    
     "meta": {
         "theme": "stackoverflow"
     }
