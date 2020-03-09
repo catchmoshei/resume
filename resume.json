@@ -44,8 +44,8 @@
       "endDate": "2017-01-01",
       "summary": "Responsible for Application Security Review, Assessment of Microsoft IT Applications and enabling compliance to application Security guidelines",
       "highlights": [
-          "Collaborate with developement teams with respect to application security in various stages of application life cycle.",
           "Security design review of new applications.",
+          "Collaborate with developement teams with respect to application security in various stages of application life cycle.",
           "Static code analysis and finding vulnerabilities",
           "Suggest security fixes and best practices in accordance with industry standards."
       ]
@@ -59,7 +59,7 @@
       "summary": "Sports Data API is a one stop solution for providing sports data to different Microsoft platforms like PRIME, Windows App, Windows Phone App, Bing, Xbox etc. Data is collected from multiple providers like STATS, Opta, Perform, Infoplum etc and provided to consumers in a unified format.",
       "highlights": [
           "Built 'ingesters' for ingesting data from new content providers.",
-          "Enable the team of developers in day to day activities.",
+          "Enabled team of developers with code structure, maintainence and quality.",
           "Help prioritize and streamline work items.",
           "Help team members make technical decisions and problem solving.",
           "Ensure effective and bug free delivery within timelines."
@@ -73,6 +73,10 @@
       "endDate": "2014-05-01",
       "summary": "Prime is the re-envisioning and consolidation of MSN to serve as the web presence for the combined product lines across Microsoft media products. Prime will consolidate and evolve both 'Classic' and TMX versions of MSN into single web product on a common codebase in all markets with a common feature-set and design. ",
       "highlights": [
+        "Implemented Skyline feature on various MSN Sports home pages.",
+        "Created abstract feature design so that same feature can be extended for multiple sports.",
+        "Ensured high quality delivery with unit tests and automation tests.",
+        "Helped improve performance of data fetch requests."
       ]
     },
     {
@@ -83,9 +87,10 @@
       "endDate": "2014-01-01",
       "summary": "MSN Live Play Football Match Centre focuses on an iterative approach to releasing a full match centre for MSN using data from providers",
       "highlights": [
-          "Worked closely with Client at onshore location Dublin Ireland.",
-          "Understanding and analysing requirements and coordinating with offshore team in Pune.",
-          "Implementing Summary, Timeline and Live Commentary Module."
+          "Implemented Summary, Timeline and Live Commentary Module.",
+          "Worked closely with Client at onshore location Dublin to analyze the requirements and address potential gaps.",
+          "Communicated finished requirement and solution architecture to the offshore team in Pune.",
+          "Felicitated effective and bug free delivery within timelines."          
       ]
     },
     {
@@ -97,7 +102,7 @@
       "summary": "Content Ingestion System takes the feed from different providers and injects them in the format compatible to MSN systems.",
       "highlights": [
           "Created content ingestion 'callouts' which involved data read, manipulation and ingestion.",
-          "Ensure job scheduling and testing of ingestion."
+          "Ensured job scheduling, testing and bug fixing of ingestion."
       ]
     },{
       "company": "Tata Consultancy Services",
