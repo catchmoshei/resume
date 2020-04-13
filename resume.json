@@ -22,10 +22,25 @@
     },
     "work": [
       {
+        "company": "Tata Consultancy Services",
+        "position": "Sr. SDE",
+        "website": "http://www.tcs.com",
+        "startDate": "2019-07-01",
+        "summary": "Microsoft Services Supplier Management is one place for searching and selecting appropriate supplier filtering through 1000s of skills, industry, domains and other supplier categories. It also lets you validate suppliers based on past projects and allows suppliers to enter details about themselves. The site gives visualization of each supplier to enable better decision making for stakeholders.",
+        "highlights": [
+          "Rearchitectured the project to enable move to modern SharePoint framework.",
+          "Built connections to new upstream database systems and modeled the data for effective searchability.",
+          "Updated the front-end by building scalable and reusable react components. ",
+          "Fixed Security vulnerabilities and helped build a more robust architecture.",
+          "Support for responsive design to be used on all browsers and devices."
+        ]
+      },
+      {
       "company": "Tata Consultancy Services",
       "position": "Sr. SDE",
       "website": "http://www.tcs.com",
       "startDate": "2017-02-01",
+      "endDate": "2019-06-30",
       "summary": "Microsoft Learning Portal (Infopedia) is a wiki-like knowledge delivery platform for sales and Marketing department of Microsoft. The portal is one stop location for over 150,000 items which consists of Documents, Pages, Books, Videos, Training Materials etc.",
       "highlights": [
         "Built end to end search experience used to find learning content.",
