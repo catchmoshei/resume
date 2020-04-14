@@ -28,7 +28,7 @@
         "startDate": "2019-07-01",
         "summary": "Microsoft Services Supplier Management is one place for searching and selecting appropriate supplier filtering through 1000s of skills, industry, domains and other supplier categories. It also lets you validate suppliers based on past projects and allows suppliers to enter details about themselves. The site gives visualization of each supplier to enable better decision making for stakeholders.",
         "highlights": [
-          "Rearchitectured the project to enable move to modern SharePoint framework.",
+          "Re-architectured the project to enable move to modern SharePoint framework.",
           "Built connections to new upstream database systems and modeled the data for effective searchability.",
           "Updated the front-end by building scalable and reusable react components. ",
           "Fixed Security vulnerabilities and helped build a more robust architecture.",
