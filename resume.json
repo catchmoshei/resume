@@ -149,7 +149,7 @@
     }],
     "skills": [{
       "name": "Frontend Development",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "HTML",
         "CSS",
@@ -162,7 +162,7 @@
     },
     {
       "name": "Backend Development",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "C#",
         "ASP.NET MVC",
@@ -173,7 +173,7 @@
     },    
     {
       "name": "Cloud Services",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
         "Microsoft Azure",
         "Azure App Service",
@@ -186,7 +186,7 @@
     },
     {
       "name": "System Design",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
         "OOPs",
         "SOLID",
@@ -195,14 +195,14 @@
     },
     {
       "name": "Test Automation",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
         "Selenium",
         "Web AII"        
       ]
     },{
       "name": "Application Security",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
         "Penetration Testing",
         "Static Code Analysis"        
@@ -210,7 +210,7 @@
     },
     {
       "name": "Database",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
         "LINQ",
         "SQL Server",
