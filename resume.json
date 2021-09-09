@@ -20,22 +20,36 @@
         "url": "https://www.linkedin.com/in/mohammed-sheikh-4a44b1106/"
       }]
     },
-    "work": [
-      {
-        "company": "Tata Consultancy Services",
-        "position": "Sr. SDE",
-        "website": "http://www.tcs.com",
-        "startDate": "2019-07-01",
-        "summary": "Microsoft Services Supplier Management is one place for searching and selecting appropriate supplier filtering through 1000s of skills, industry, domains and other supplier categories. It also lets you validate suppliers based on past projects and allows suppliers to enter details about themselves. The site gives visualization of each supplier to enable better decision making for stakeholders.",
-        "highlights": [
-          "Re-architectured the project to enable move to modern SharePoint framework.",
-          "Built connections to new upstream database systems and modeled the data for effective searchability.",
-          "Updated the front-end by building scalable and reusable react components. ",
-          "Fixed Security vulnerabilities and helped build a more robust architecture.",
-          "Support for responsive design to be used on all browsers and devices."
-        ]
-      },
-      {
+  "work": [
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Sr. SDE/Dev lead",
+      "website": "http://www.tcs.com",
+      "startDate": "2020-11-01",
+      "summary": "Microsoft Teams Developer platform lets you build custom applications on teams. This project involved solving specific customer problem using various Teams capabilities - Tabs, Messaging Extensions, Bots, Messaging Extension and Connectors.",
+      "highlights": [
+        "Architected multiple solutions on Teams platform using Azure services and office 365 developement.",
+        "Closely interacted with customer to understand and solve specific requirement and problem statement.",
+        "Managed a team of developers for code quality, maintainability and extensibility.",
+        "Delivered multiple quick solutions in tight timelines ensuring good quality."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Sr. SDE",
+      "website": "http://www.tcs.com",
+      "startDate": "2019-07-01",
+      "endDate": "2020-10-31",
+      "summary": "Microsoft Services Supplier Management is one place for searching and selecting appropriate supplier filtering through 1000s of skills, industry, domains and other supplier categories. It also lets you validate suppliers based on past projects and allows suppliers to enter details about themselves. The site gives visualization of each supplier to enable better decision making for stakeholders.",
+      "highlights": [
+        "Re-architectured the project to enable move to modern SharePoint framework.",
+        "Built connections to new upstream database systems and modeled the data for effective searchability.",
+        "Updated the front-end by building scalable and reusable react components. ",
+        "Fixed Security vulnerabilities and helped build a more robust architecture.",
+        "Support for responsive design to be used on all browsers and devices."
+      ]
+    },
+    {
       "company": "Tata Consultancy Services",
       "position": "Sr. SDE",
       "website": "http://www.tcs.com",
@@ -59,10 +73,10 @@
       "endDate": "2017-01-01",
       "summary": "Responsible for Application Security Review, Assessment of Microsoft IT Applications and enabling compliance to application Security guidelines",
       "highlights": [
-          "Security design review of new applications.",
-          "Collaborate with developement teams with respect to application security in various stages of application life cycle.",
-          "Static code analysis and finding vulnerabilities",
-          "Suggest security fixes and best practices in accordance with industry standards."
+        "Security design review of new applications.",
+        "Collaborate with developement teams with respect to application security in various stages of application life cycle.",
+        "Static code analysis and finding vulnerabilities",
+        "Suggest security fixes and best practices in accordance with industry standards."
       ]
     },
     {
@@ -73,11 +87,11 @@
       "endDate": "2016-01-01",
       "summary": "Sports Data API is a one stop solution for providing sports data to different Microsoft platforms like PRIME, Windows App, Windows Phone App, Bing, Xbox etc. Data is collected from multiple providers like STATS, Opta, Perform, Infoplum etc and provided to consumers in a unified format.",
       "highlights": [
-          "Built 'ingesters' for ingesting data from new content providers.",
-          "Enabled team of developers with code structure, maintainence and quality.",
-          "Help prioritize and streamline work items.",
-          "Help team members make technical decisions and problem solving.",
-          "Ensure effective and bug free delivery within timelines."
+        "Built 'ingesters' for ingesting data from new content providers.",
+        "Enabled team of developers with code structure, maintainence and quality.",
+        "Help prioritize and streamline work items.",
+        "Help team members make technical decisions and problem solving.",
+        "Ensure effective and bug free delivery within timelines."
       ]
     },
     {
@@ -102,10 +116,10 @@
       "endDate": "2014-01-01",
       "summary": "MSN Live Play Football Match Centre focuses on an iterative approach to releasing a full match centre for MSN using data from providers",
       "highlights": [
-          "Implemented Summary, Timeline and Live Commentary Module.",
-          "Worked closely with Client at onshore location Dublin to analyze the requirements and address potential gaps.",
-          "Communicated finished requirement and solution architecture to the offshore team in Pune.",
-          "Felicitated effective and bug free delivery within timelines."          
+        "Implemented Summary, Timeline and Live Commentary Module.",
+        "Worked closely with Client at onshore location Dublin to analyze the requirements and address potential gaps.",
+        "Communicated finished requirement and solution architecture to the offshore team in Pune.",
+        "Felicitated effective and bug free delivery within timelines."
       ]
     },
     {
@@ -116,10 +130,11 @@
       "endDate": "2013-01-01",
       "summary": "Content Ingestion System takes the feed from different providers and injects them in the format compatible to MSN systems.",
       "highlights": [
-          "Created content ingestion 'callouts' which involved data read, manipulation and ingestion.",
-          "Ensured job scheduling, testing and bug fixing of ingestion."
+        "Created content ingestion 'callouts' which involved data read, manipulation and ingestion.",
+        "Ensured job scheduling, testing and bug fixing of ingestion."
       ]
-    },{
+    },
+    {
       "company": "Tata Consultancy Services",
       "position": "SDET/Team Member",
       "website": "http://www.tcs.com",
@@ -127,9 +142,9 @@
       "endDate": "2012-02-01",
       "summary": "Test SDK is an automation framework architecture on top of popular browser automation frameworks like Selenium and WebAii, This would help write automated functional tests for testing web pages on MSN site.",
       "highlights": [
-          "Created automated test cases using browser automation framework (Selenium and Web AII",
-          "Created and executed test plans.",
-          "Performed unit testing, acceptance testings, regression and integration."
+        "Created automated test cases using browser automation framework (Selenium and Web AII",
+        "Created and executed test plans.",
+        "Performed unit testing, acceptance testings, regression and integration."
       ]
     }
   ],
@@ -168,7 +183,10 @@
         "ASP.NET MVC",
         "Web API",        
         ".Net Core",
-        "Entity Framework 6"
+        "Entity Framework 6",
+        "Microsoft Bot Framework",
+        "Microsoft Graph API",
+        "Teams App Developement"
       ]
     },    
     {
@@ -181,7 +199,8 @@
         "Functions",
         "Services Bus",
         "API Management",
-        "Hybrid Connections"       
+        "Hybrid Connections",
+        "Azure Active Directory"
       ]
     },
     {
