@@ -233,7 +233,8 @@
       "keywords": [
         "LINQ",
         "SQL Server",
-        "Azure DocumentDB"
+        "Azure Table Storage",
+        "Azure CosmosDB"
       ]
     }    
   ],
