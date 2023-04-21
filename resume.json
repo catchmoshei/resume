@@ -230,7 +230,8 @@
       "level": "Intermediate",
       "keywords": [
         "Selenium",
-        "Web AII"        
+        "Web AII",
+        "Playwright"
       ]
     },{
       "name": "Application Security",
