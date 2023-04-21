@@ -25,6 +25,18 @@
       "company": "Tata Consultancy Services",
       "position": "Sr. SDE/Dev lead",
       "website": "http://www.tcs.com",
+      "startDate": "2022-07-01",
+      "summary": "Amplify team that is part of Microsoft's Experiences and Devices organization. Amplify team is responsible for development and maintenance of Microsoft Admin Center (MAC) portal (https://admin.microsoft.com). This portal enables enterprise customers of Microsoft to manage admin roles, users, groups, licenses, billing etc. MAC is also the entry point for purchasing new licenses and managing org level permissions and accesses. It is hence a key component to drive business and revenue growth for Microsoft's enterprise customers.",
+      "highlights": [
+        "Rearchitected UX Automation framework, helped improve efficiency of test automation pipelines that ensures smooth and secure deployment to 12 datacenters worldwide twice a week.",
+        "Developed new features on the portal. The features developed are strategic, since they are focused on driving new business and improve existing end user experiences.",
+        "Managed a team of developers and Test automation engineers for code quality, maintainability and extensibility."        
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Sr. SDE/Dev lead",
+      "website": "http://www.tcs.com",
       "startDate": "2020-11-01",
       "summary": "Microsoft Teams Developer platform lets you build custom applications on teams. This project involved solving specific customer problem using various Teams capabilities - Tabs, Messaging Extensions, Bots, Task Modules and Connectors.",
       "highlights": [
