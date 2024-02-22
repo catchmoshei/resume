@@ -9,7 +9,7 @@
       "summary": "Employ my programming, analytical and logical skills to build software products that impact the world.",
       "location": {
         "address": "14521 NE 6th pl, Apt 1",
-        "postalCode": "WA 98005",
+        "postalCode": "WA 98007",
         "city": "Seattle",
         "countryCode": "US",
         "region": "Washington"
@@ -38,6 +38,7 @@
       "position": "Sr. SDE/Dev lead",
       "website": "http://www.tcs.com",
       "startDate": "2020-11-01",
+      "endDate": "2022-06-30",
       "summary": "Microsoft Teams Developer platform lets you build custom applications on teams. This project involved solving specific customer problem using various Teams capabilities - Tabs, Messaging Extensions, Bots, Task Modules and Connectors.",
       "highlights": [
         "Architected multiple solutions on Teams platform using Azure services and office 365 developement.",
@@ -198,7 +199,7 @@
         "Entity Framework 6",
         "Microsoft Bot Framework",
         "Microsoft Graph API",
-        "Teams App Developement"
+        "Teams App Developement"        
       ]
     },    
     {
