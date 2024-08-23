@@ -228,16 +228,17 @@
     },
     {
       "name": "Test Automation",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
-        "Selenium",
-        "Web AII",
-        "Playwright"
+        "Selenium",        
+        "Playwright",
+        "Web AII"
       ]
     },{
       "name": "Application Security",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
+        "web Application Security (OWASP)",
         "Penetration Testing",
         "Static Code Analysis"        
       ]
