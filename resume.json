@@ -204,7 +204,7 @@
     },    
     {
       "name": "Cloud Services",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "Microsoft Azure",
         "Azure App Service",
@@ -216,16 +216,7 @@
         "Azure Active Directory",
         "SharePoint Online and SPFx webparts"
       ]
-    },
-    {
-      "name": "System Design",
-      "level": "Intermediate",
-      "keywords": [
-        "OOPs",
-        "SOLID",
-        "Distributed Systems"      
-      ]
-    },
+    },    
     {
       "name": "Test Automation",
       "level": "Advanced",
@@ -241,6 +232,15 @@
         "web Application Security (OWASP)",
         "Penetration Testing",
         "Static Code Analysis"        
+      ]
+    },
+    {
+      "name": "System Design",
+      "level": "Intermediate",
+      "keywords": [
+        "OOPs",
+        "SOLID",
+        "Distributed Systems"      
       ]
     },
     {
