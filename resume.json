@@ -8,9 +8,9 @@
       "website": "",
       "summary": "Employ my programming, analytical and logical skills to build software products that impact the world.",
       "location": {
-        "address": "14521 NE 6th pl, Apt 1",
-        "postalCode": "WA 98007",
-        "city": "Bellevue",
+        "address": "17215 42nd Dr SE",
+        "postalCode": "WA 98012",
+        "city": "Bothell",
         "countryCode": "US",
         "region": "Washington"
       },
@@ -22,7 +22,7 @@
     },
   "work": [
     {
-      "company": "Tata Consultancy Services",
+      "company": "Microsoft (TCS)",
       "position": "Sr. SDE/Dev lead",
       "website": "http://www.tcs.com",
       "startDate": "2022-07-01",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "company": "Tata Consultancy Services",
+      "company": "Microsoft (TCS)",
       "position": "Sr. SDE/Dev lead",
       "website": "http://www.tcs.com",
       "startDate": "2020-11-01",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "company": "Tata Consultancy Services",
+      "company": "Microsoft (TCS)",
       "position": "Sr. SDE",
       "website": "http://www.tcs.com",
       "startDate": "2019-07-01",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "company": "Tata Consultancy Services",
+      "company": "Microsoft (TCS)",
       "position": "Sr. SDE",
       "website": "http://www.tcs.com",
       "startDate": "2017-02-01",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "company": "Tata Consultancy Services",
+      "company": "Microsoft (TCS)",
       "position": "Application Security Analyst",
       "website": "http://www.tcs.com",
       "startDate": "2016-01-01",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "company": "Tata Consultancy Services",
+      "company": "Microsoft (TCS)",
       "position": "Project Lead/ Sr SDE",
       "website": "http://www.tcs.com",
       "startDate": "2014-05-01",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "company": "Tata Consultancy Services",
+      "company": "Microsoft (TCS)",
       "position": "SDE/Module Lead",
       "website": "http://www.tcs.com",
       "startDate": "2014-02-01",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "company": "Tata Consultancy Services",
+      "company": "Microsoft (TCS)",
       "position": "SDE/On-Site Coordinator",
       "website": "http://www.tcs.com",
       "startDate": "2013-02-01",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "company": "Tata Consultancy Services",
+      "company": "Microsoft (TCS)",
       "position": "SDE/Team Member/Scrum Master",
       "website": "http://www.tcs.com",
       "startDate": "2012-03-01",
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "company": "Tata Consultancy Services",
+      "company": "Microsoft (TCS)",
       "position": "SDET/Team Member",
       "website": "http://www.tcs.com",
       "startDate": "2010-02-01",
