@@ -23,7 +23,7 @@
   "work": [
     {
       "company": "Microsoft (TCS)",
-      "position": "Sr. SDE/Dev lead",
+      "position": "Sr. SDE/SDET lead",
       "website": "http://www.tcs.com",
       "startDate": "2022-07-01",
       "summary": "Amplify team that is part of Microsoft's Experiences and Devices organization. Amplify team is responsible for development and maintenance of Microsoft Admin Center (MAC) portal (https://admin.microsoft.com). This portal enables enterprise customers of Microsoft to manage admin roles, users, groups, licenses, billing etc. MAC is also the entry point for purchasing new licenses and managing org level permissions and accesses. It is hence a key component to drive business and revenue growth for Microsoft's enterprise customers.",
@@ -123,13 +123,13 @@
     },
     {
       "company": "Microsoft (TCS)",
-      "position": "SDE/On-Site Coordinator",
+      "position": "SDET/On-Site Coordinator",
       "website": "http://www.tcs.com",
       "startDate": "2013-02-01",
       "endDate": "2014-01-01",
       "summary": "MSN Live Play Football Match Centre focuses on an iterative approach to releasing a full match centre for MSN using data from providers",
       "highlights": [
-        "Implemented Summary, Timeline and Live Commentary Module.",
+        "Implemented Test Strategy for Summary, Timeline and Live Commentary Module.",
         "Worked closely with Client at onshore location Dublin to analyze the requirements and address potential gaps.",
         "Communicated finished requirement and solution architecture to the offshore team in Pune.",
         "Felicitated effective and bug free delivery within timelines."
